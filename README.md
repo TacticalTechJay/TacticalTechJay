@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TacticalTechJay
 - 👀 I’m interested in 👁️👁️
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on nothin'. Still chilling
+- 💞️ I’m looking to collaborate on JavaScript stuff.
 - 📫 How to reach me [Nowhere?](https://google.com)
 
 <!---
